@@ -29,8 +29,6 @@ Die Daten sind von 2007 bis 2010, bevor das Unternehmen an die Börse ging. Anha
 Notebook öffnen
 Code-Zeilen nacheinander ausführen lassen
 
-#Future Warning ist eine Warninformation und gilt für zukünftige Versionen.
-
 #Code-Abfolge: 
 1. Libraries importieren (nachdem sie vorab durch binder installiert wurden)
 2. Daten einlesen
